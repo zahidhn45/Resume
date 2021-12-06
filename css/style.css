@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainContainer {
+    width: 60%;
+    margin-top: 10px;
+    border: 2px solid black;
+    margin-left: 20%;
+    padding: 10px;
+    background-color: #cfd0d1;
+}
+
+.main {
+    font-weight: bold;
+    size: 28px;
+    padding: 5px;
+}
+
+.contents {
+    size: 22px;
+    font-weight: normal;
+    text-decoration: underline;
+    color: blue;
+}
+
+.contents a {
+    size: 22px;
+    font-weight: normal;
+    text-decoration: underline;
+    color: blue;
+}
+
+hr {
+    background-color: black;
+    height: 2px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.mainHeader {
+    font-weight: bold;
+    size: 32px;
+}
+
+.subHeader {
+    font-weight: 550;
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.contentStyle {
+    margin-left: 40px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    padding: 5px;
+    size: 22px;
+    font-weight: normal;
+}
+
+.contentStyles {
+    margin-left: 80px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+    padding: 5px;
+    size: 22px;
+    font-weight: normal;
+}
+
+.contentStyles li {
+    padding: 5px;
+}
+
+.subHeader ul {
+    margin-left: 60px;
+}
+
+.contentStyle li {
+    padding: 5px;
+}
+
+.tableValue {
+    font-weight: 540;
+    padding: 5px;
+}
+
+.technical {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: #b0ced9;
+    border-radius: 10px;
+}
